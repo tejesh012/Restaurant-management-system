@@ -1,0 +1,13 @@
+{'id': 1, 'item_name': 'Chicken Biryani', 'category': 'Biryani', 'price': '₹250', 'review': 0.0, 'no_of_reviews': 0}
+{'id': 2, 'item_name': 'Mutton Biryani', 'category': 'Biryani', 'price': '₹400', 'review': 0.0, 'no_of_reviews': 0}
+{'id': 3, 'item_name': 'Egg Biryani', 'category': 'Biryani', 'price': '₹180', 'review': 0.0, 'no_of_reviews': 0}
+{'id': 4, 'item_name': 'Tandoori Chicken Biryani', 'category': 'Biryani', 'price': '₹300', 'review': 0.0, 'no_of_reviews': 0}
+{'id': 5, 'item_name': 'Prawn Biryani', 'category': 'Biryani', 'price': '₹250', 'review': 0.0, 'no_of_reviews': 0}
+{'id': 6, 'item_name': 'Paneer Tikka', 'category': 'Starters', 'price': '₹150', 'review': 0.0, 'no_of_reviews': 0}
+{'id': 7, 'item_name': 'Veg Pakora', 'category': 'Starters', 'price': '₹120', 'review': 0.0, 'no_of_reviews': 0}
+{'id': 8, 'item_name': 'Butter Chicken', 'category': 'Curries', 'price': '₹350', 'review': 0.0, 'no_of_reviews': 0}
+{'id': 9, 'item_name': 'Dal Makhani', 'category': 'Curries', 'price': '₹180', 'review': 0.0, 'no_of_reviews': 0}
+{'id': 10, 'item_name': 'Gulab Jamun', 'category': 'Desserts', 'price': '₹100', 'review': 0.0, 'no_of_reviews': 0}
+{'id': 11, 'item_name': 'Ras Malai', 'category': 'Desserts', 'price': '₹120', 'review': 0.0, 'no_of_reviews': 0}
+{'id': 13, 'item_name': 'Maaza', 'category': 'Drinks', 'price': '₹60', 'review': 0.0, 'no_of_reviews': 0}
+{'id': 14, 'item_name': 'Pepsi', 'category': 'Drinks', 'price': '₹60', 'review': 0.0, 'no_of_reviews': 0}
